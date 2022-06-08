@@ -1,3 +1,3 @@
 # Pages
 
-https://guhcalm.github.io/deformation-flow-simulator/
+https://guhcalm.github.io/deformation-flow-simulator-in-vanilla/
